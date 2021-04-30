@@ -1,6 +1,7 @@
 ### Ariadne de Castro Silvério
 
-## Hello there! I am a biologist and aspiring data scientist. I am fascinated by learning, bioinformatics, evolution, and data science.
+## Hello there! 
+## I am a biologist and aspiring data scientist. I am fascinated by learning, bioinformatics, evolution, and data science.
 
 - 💻 Currently qualifying to be a data scientist 
 - 👩‍💻 Studying programming, statistics, data visualization, and bioinformatics
@@ -27,7 +28,7 @@
 <img align="left" alt="NCBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/US-NLM-NCBI-Logo.svg/829px-US-NLM-NCBI-Logo.svg.png" />
 
 
-<img align="left" alt="GoogleSheets" width="26px" src="https://jotformapps.s3.amazonaws.com/156278771848476650158_GoogleSpreadsheet.png" />
+<img align="left" alt="GoogleSheets" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/2965/2965327.svg?token=exp=1619813322~hmac=dd71615fdff8d96a284cd4accaf04349" />
 
 <img align="left" alt="Excel" width="26px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" />
 
