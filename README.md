@@ -6,7 +6,7 @@ I am fascinated by learning, bioinformatics, evolution, and data science.
 
 - 💻 Currently qualifying to be a data scientist 
 - 👩‍💻 Studying programming, statistics, data visualization, and bioinformatics
-- 🙋‍♀️ I like to work in group, search for solutions and resolve problems
+- 🙋‍♀️ I like to work in group and challenges
 
 
 ### Connect with me:
