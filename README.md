@@ -1,7 +1,8 @@
-### Ariadne de Castro Silvério
+## *Ariadne de Castro Silvério
 
-## Hello there! 
-## I am a biologist and aspiring data scientist. I am fascinated by learning, bioinformatics, evolution, and data science.
+Hello there! 
+I am a biologist and aspiring data scientist. 
+I am fascinated by learning, bioinformatics, evolution, and data science.
 
 - 💻 Currently qualifying to be a data scientist 
 - 👩‍💻 Studying programming, statistics, data visualization, and bioinformatics
