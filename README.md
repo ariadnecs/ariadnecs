@@ -1,4 +1,4 @@
-## *Ariadne de Castro Silvério
+## **Ariadne de Castro Silvério
 
 Hello there! 
 I am a biologist and aspiring data scientist. 
