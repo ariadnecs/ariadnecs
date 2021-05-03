@@ -27,7 +27,7 @@ I am fascinated by learning, bioinformatics, evolution, and data science.
 
 <img align="left" alt="NCBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/US-NLM-NCBI-Logo.svg/829px-US-NLM-NCBI-Logo.svg.png" />
 
-<img align="left" alt="GoogleSheets" width="26px" src="https://www.seekpng.com/png/full/19-198312_google-sheets-google-sheets-png.png />
+<img align="left" alt="GoogleSheets" width="26px" src="https://www.seekpng.com/png/full/19-198312_google-sheets-google-sheets-png.png" />
 
 <img align="left" alt="Excel" width="26px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" />
 
