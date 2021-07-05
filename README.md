@@ -1,10 +1,12 @@
 ### Ariadne de Castro Silvério
 
 Hello there! 
+
+
 I am a biologist and data scientist <3
 
 
-- 💻 Currently qualifying to be a data scientist 
+- 💻 Lifelong learner
 - 👩‍💻 Studying programming, statistics, data visualization, and bioinformatics
 - 🙋‍♀️ I like to work in group and challenges
 
@@ -25,7 +27,7 @@ I am a biologist and data scientist <3
 
 <img align="left" alt="Ensembl" width="22px" src="https://avatars.githubusercontent.com/u/5832463?s=200&v=4" />
 
-<img align="left" alt="NCBI" width="22px"" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/US-NLM-NCBI-Logo.svg/829px-US-NLM-NCBI-Logo.svg.png" />
+<img align="left" alt="NCBI" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/US-NLM-NCBI-Logo.svg/829px-US-NLM-NCBI-Logo.svg.png" />
 
 <img align="left" alt="GoogleSheets" width="22px" src="https://www.seekpng.com/png/full/19-198312_google-sheets-google-sheets-png.png" />
 
