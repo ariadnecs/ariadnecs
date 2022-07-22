@@ -21,7 +21,7 @@ I am a biologist and data scientist <3
 
 ### Languages and Tools:
 
-<img align="left" alt="Phytozome" width="22px" src="https://phytozome.jgi.doe.gov/pz/site/images/species/Phytozome/default.png" />
+
 
 <img align="left" alt="SOLGenomics" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCdC9gd3PRq0GAlsASQioOUoHX3B5qWCQROBE3W2mqsYJquB1QS71B9LAMuaCedxWDxOo&usqp=CAU" />
 
