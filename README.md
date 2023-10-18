@@ -3,7 +3,7 @@
 Hello there! 
 
 
-I am a biologist and data scientist <3
+I am a biologist and data engineer <3
 
 
 - 💻 Lifelong learner
